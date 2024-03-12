@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatumHulpMiddelen.cs" />
+    <Compile Include="ListProcessor.cs" />
+    <Compile Include="Logger.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RekenMachin.cs" />
     <Compile Include="TekstHelper.cs" />

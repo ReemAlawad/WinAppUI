@@ -64,6 +64,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DatumHulpMiddelenTest.cs" />
+    <Compile Include="ListProcessorTests.cs" />
+    <Compile Include="LoggerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RekenMachinTests.cs" />
     <Compile Include="TekstHelperTest.cs" />
